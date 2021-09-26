@@ -1,5 +1,5 @@
-#ifndef DEGREEAWARDS_H_190920
-#define DEGREEAWARDS_H_190920
+#ifndef DEGREEAWARDS_H
+#define DEGREEAWARDS_H
 
 
 #endif
